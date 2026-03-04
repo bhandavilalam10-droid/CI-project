@@ -1,4 +1,4 @@
-name: Password Generator CI
+ name: Password Generator CI
 
 on:
   push:
